@@ -1,0 +1,15 @@
+C:\Users\ilyay\RiderProjects\Виселица\Виселица\obj\Debug\net6.0\Виселица.csproj.AssemblyReference.cache
+C:\Users\ilyay\RiderProjects\Виселица\Виселица\obj\Debug\net6.0\Виселица.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ilyay\RiderProjects\Виселица\Виселица\obj\Debug\net6.0\Виселица.AssemblyInfoInputs.cache
+C:\Users\ilyay\RiderProjects\Виселица\Виселица\obj\Debug\net6.0\Виселица.AssemblyInfo.cs
+C:\Users\ilyay\RiderProjects\Виселица\Виселица\obj\Debug\net6.0\Виселица.csproj.CoreCompileInputs.cache
+C:\Users\ilyay\RiderProjects\Виселица\Виселица\bin\Debug\net6.0\Виселица.exe
+C:\Users\ilyay\RiderProjects\Виселица\Виселица\bin\Debug\net6.0\Виселица.deps.json
+C:\Users\ilyay\RiderProjects\Виселица\Виселица\bin\Debug\net6.0\Виселица.runtimeconfig.json
+C:\Users\ilyay\RiderProjects\Виселица\Виселица\bin\Debug\net6.0\Виселица.dll
+C:\Users\ilyay\RiderProjects\Виселица\Виселица\bin\Debug\net6.0\ref\Виселица.dll
+C:\Users\ilyay\RiderProjects\Виселица\Виселица\bin\Debug\net6.0\Виселица.pdb
+C:\Users\ilyay\RiderProjects\Виселица\Виселица\obj\Debug\net6.0\Виселица.dll
+C:\Users\ilyay\RiderProjects\Виселица\Виселица\obj\Debug\net6.0\ref\Виселица.dll
+C:\Users\ilyay\RiderProjects\Виселица\Виселица\obj\Debug\net6.0\Виселица.pdb
+C:\Users\ilyay\RiderProjects\Виселица\Виселица\obj\Debug\net6.0\Виселица.genruntimeconfig.cache
